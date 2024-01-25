@@ -4,11 +4,11 @@ Um parágrafo da descrição do projeto vai aqui
 
 ## 🚀 Começando
 
-### Por conta da diferença de interpretação entre os browsers utilizei o normalize.css para padronizar os estilos em todos os navegadores.
+### 1 - Por conta da diferença de interpretação entre os browsers utilizei o normalize.css para padronizar os estilos em todos os navegadores.
 
-### Fonte Roboto importada do Google Fonts usando o @import url.
+### 2 - Fonte Roboto importada do Google Fonts usando o @import url.
 
-### Utilizado padrão de desenvolvimento Mobile First.
+### 3 - Utilizado padrão de desenvolvimento Mobile First.
 
 ## 📄 Licença
 
