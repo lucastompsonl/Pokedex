@@ -11,11 +11,11 @@
 ## 🛠️ Construído com:
 <table>
  <tr>
-   <td>HTML5</td>
-   <td>CSS3</td>
-  <td>Javascript</td>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>Javascript</td>
     <td>PokeAPI</td>
-  <td>Git</td>
+    <td>Git</td>
  </tr>
 
 
