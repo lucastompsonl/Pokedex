@@ -8,6 +8,20 @@
 
 #### 3 - Utilizado padrão de desenvolvimento Mobile First.
 
+#### 4 - 
+
+#### 5 - 
+
+#### 6 - 
+
+#### 7 - 
+
+#### 8 - 
+
+#### 9 - 
+
+#### 10 - 
+
 ## 🛠️ Construído com:
 <table>
  <tr>
